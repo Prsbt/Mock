@@ -14,6 +14,7 @@ Per swagger l'url è: http://localhost:8080/swagger.html
 
 
 # Docker
+- creare il jar; (se su intellij utilizzare plug-in maven ed eseguire clean e poi install)
 - entrare nella cartella del progetto dove è presente Dockerfile;
 - eseguire ```docker build -t springapi .```;
 - eseguire ```docker images``` per controllare se è stata creata l'immagine;
