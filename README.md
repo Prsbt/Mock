@@ -14,7 +14,7 @@ Per swagger l'url è: http://localhost:8080/swagger.html
 
 
 # Docker
-- entrara nella cartella del progetto dove è presente Dockerfile;
+- entrare nella cartella del progetto dove è presente Dockerfile;
 - eseguire ```docker build -t springapi .```;
 - eseguire ```docker images``` per controllare se è stata creata l'immagine;
 - eseguire ```docker run -p 8080:8080 springapi``` o usare le porte che si vogliono;
