@@ -7,3 +7,5 @@ sito dove ho ricavato le info per il cf: https://www.agenziaentrate.gov.it/porta
 Non gestisce gli omonimi non avendo accesso ad alcun db su cui confrontare il cf;
 
 Non gestisce l'ultimo carattere sempre per il discorso sugli omonimi;
+
+Per swagger l'url è: http://localhost:8080/swagger.html
